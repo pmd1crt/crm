@@ -1,4 +1,4 @@
-<project name="Jenkins2" default="dist" basedir=".">
+<project name="MyDemoJenkinsProject" default="dist" basedir=".">
   <description>
     simple example build file
   </description>
